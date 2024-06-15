@@ -1,6 +1,9 @@
 <div align="center">
 
 
+# CURRENTLY NOT WORKING!!!!!!
+
+
 ![icon](https://github.com/xyz1337top/JuiceNuker/assets/172919286/1a12637e-8c2a-4da3-b9c6-c2bac0b024a7)
 
 
