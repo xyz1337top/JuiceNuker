@@ -23,7 +23,7 @@ Juice Nuker is a very fast and free Discord nuker.
 
 ![nuking](https://github.com/xyz1337top/JuiceNuker/assets/172919286/b8be9321-cbfc-459a-bb8a-906e869aae57)
 
-## **Please Star To support this project for free! ⭐**
+## **⭐ Please Star To support this project for free! ⭐**
 
  ## **⚠️ For educational purposes! 📖**
 
