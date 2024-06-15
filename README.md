@@ -17,8 +17,6 @@ Juice Nuker is a very fast and free Discord nuker.
 4. **Server name** - Changes the server name
 5. **Ban everyone** - Bans everyone
 
-# Please run the .exe file, .py file is not working.
-
 # Preview
 
 ![app](https://github.com/xyz1337top/JuiceNuker/assets/172919286/2cbe911f-73a7-4517-bbb6-cc3a4b6337f6)
