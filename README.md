@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# CURRENTLY NOT WORKING!!!!!!
+
 
 
 ![icon](https://github.com/xyz1337top/JuiceNuker/assets/172919286/1a12637e-8c2a-4da3-b9c6-c2bac0b024a7)
@@ -16,6 +16,8 @@ Juice Nuker is a very fast and free Discord nuker.
 3. **Send messages** - Sends a chosen message
 4. **Server name** - Changes the server name
 5. **Ban everyone** - Bans everyone
+
+# Please run the .exe file, .py file is not working.
 
 # Preview
 
